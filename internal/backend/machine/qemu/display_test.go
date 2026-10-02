@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 // fakeQMP accepts one session, answers the handshake and records each

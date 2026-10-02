@@ -6,7 +6,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 func TestQGAPing(t *testing.T) {

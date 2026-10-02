@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 // scriptedQMP answers each connection's greeting and handshake, then hands

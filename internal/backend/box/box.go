@@ -5,7 +5,7 @@ package box
 import (
 	"context"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 type Backend struct {

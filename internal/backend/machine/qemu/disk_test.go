@@ -5,7 +5,7 @@ import (
 	"os/exec"
 	"testing"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 func virtualSize(t *testing.T, disk string) int64 {

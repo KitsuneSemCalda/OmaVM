@@ -14,7 +14,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 // SSH into a Machine goes over AF_VSOCK, a host↔guest socket that needs no

@@ -9,8 +9,8 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
-	"github.com/KitsuneSemCalda/OmaVM/internal/desktop"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/desktop"
 )
 
 // hostLinkDir is ~/OmaVM, the directory OmaVM exposes Machine disks

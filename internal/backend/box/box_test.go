@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 type fakeBackend struct {

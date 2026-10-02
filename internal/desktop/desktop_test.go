@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 func testLauncher(t *testing.T) *Launcher {

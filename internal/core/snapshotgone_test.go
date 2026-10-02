@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 // A snapshot the registry lists but the disk lost (deleted by hand) must

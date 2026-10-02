@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 // containerPrefix namespaces containers this engine manages so it never

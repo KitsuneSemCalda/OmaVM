@@ -17,13 +17,13 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/applog"
-	"github.com/KitsuneSemCalda/OmaVM/internal/backend/box"
-	"github.com/KitsuneSemCalda/OmaVM/internal/backend/box/container"
-	"github.com/KitsuneSemCalda/OmaVM/internal/backend/box/distrobox"
-	"github.com/KitsuneSemCalda/OmaVM/internal/backend/machine/qemu"
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
-	"github.com/KitsuneSemCalda/OmaVM/internal/desktop"
+	"github.com/KitsuneForgering/OmaVM/internal/applog"
+	"github.com/KitsuneForgering/OmaVM/internal/backend/box"
+	"github.com/KitsuneForgering/OmaVM/internal/backend/box/container"
+	"github.com/KitsuneForgering/OmaVM/internal/backend/box/distrobox"
+	"github.com/KitsuneForgering/OmaVM/internal/backend/machine/qemu"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/desktop"
 )
 
 func main() {

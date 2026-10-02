@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 func TestCloneCopiesTheDiskOfAStoppedMachine(t *testing.T) {

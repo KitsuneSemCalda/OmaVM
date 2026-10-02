@@ -7,7 +7,7 @@ import (
 	"io"
 	"os/exec"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 // Exit codes are a contract with scripts and agents: they say what the

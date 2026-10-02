@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 // Error messages reach people through the CLI and the GUI's toasts: the

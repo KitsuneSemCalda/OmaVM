@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 // batchBackend answers every status in one Statuses call and fails any

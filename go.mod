@@ -1,3 +1,3 @@
-module github.com/KitsuneSemCalda/OmaVM
+module github.com/KitsuneForgering/OmaVM
 
 go 1.27.1

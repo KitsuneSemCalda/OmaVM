@@ -14,8 +14,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
-	"github.com/KitsuneSemCalda/OmaVM/internal/power"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/power"
 )
 
 func TestSlowShutdownNeverSendsQuit(t *testing.T) {

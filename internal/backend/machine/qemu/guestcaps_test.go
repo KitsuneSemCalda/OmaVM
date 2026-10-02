@@ -3,7 +3,7 @@ package qemu
 import (
 	"testing"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 func TestGuestCapabilities(t *testing.T) {

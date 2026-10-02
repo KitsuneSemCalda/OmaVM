@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 // fakeVirtiofsd points virtiofsdPath at a shell script and returns a file

@@ -22,8 +22,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
-	"github.com/KitsuneSemCalda/OmaVM/internal/power"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/power"
 )
 
 // diskSize is the virtual size of every Machine's disk: 1 TiB. The qcow2

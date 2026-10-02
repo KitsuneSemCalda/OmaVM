@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 // applied is what a running QEMU was started with, read back from its

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 func TestEphemeralStartDiscardsWritesNextToTheDisk(t *testing.T) {

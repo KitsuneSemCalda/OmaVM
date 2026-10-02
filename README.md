@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/KitsuneSemCalda/OmaVM/actions/workflows/ci.yml"><img src="https://github.com/KitsuneSemCalda/OmaVM/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/KitsuneForgering/OmaVM/actions/workflows/ci.yml"><img src="https://github.com/KitsuneForgering/OmaVM/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
   <a href="go.mod"><img src="https://img.shields.io/badge/go-1.27.1%2B-00ADD8?logo=go" alt="Go 1.27.1+"></a>
 </p>
@@ -143,7 +143,7 @@ into `omavm-gui`. See [Machines](#machines) below for what that gets you.
 ## Quick start
 
 ```bash
-git clone https://github.com/KitsuneSemCalda/OmaVM.git
+git clone https://github.com/KitsuneForgering/OmaVM.git
 cd OmaVM
 make check      # build, vet, test everything
 make install    # omavm + omavm-gui on PATH, .desktop entry, no root needed
@@ -480,7 +480,7 @@ confirmation (`CONFIRM=1` skips the prompt for scripted use).
 OmaVM is listed in OmaStore through [`omastore.toml`](omastore.toml):
 
 ```bash
-omastore install KitsuneSemCalda/OmaVM
+omastore install KitsuneForgering/OmaVM
 ```
 
 The store installs the release tarball under your home directory and puts

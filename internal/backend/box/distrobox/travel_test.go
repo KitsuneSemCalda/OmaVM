@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
-	"github.com/KitsuneSemCalda/OmaVM/internal/power"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/power"
 )
 
 // travelHost fakes a host with 8 CPUs, the given power state and a podman

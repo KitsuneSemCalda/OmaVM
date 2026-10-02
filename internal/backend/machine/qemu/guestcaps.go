@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/KitsuneSemCalda/OmaVM/internal/core"
+	"github.com/KitsuneForgering/OmaVM/internal/core"
 )
 
 const mountHint = "In a Linux guest: sudo mkdir -p /mnt/omavm-share && sudo mount -t virtiofs omavm-share /mnt/omavm-share"
